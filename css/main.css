@@ -15,15 +15,19 @@ html, body { height: 100%; }
 body {
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  font-size: medium;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+h1 {
+ margin-bottom: 1em;
+}
+p {
+ margin: 1em 0;
+}
 
 a         { color: #00a; }
 a:hover   { color: #000; }
@@ -93,6 +97,11 @@ ul.posts span {
 
 .site .header a.extra:hover {
   color: #000;
+}
+
+.site .sidebar{
+    width: 25%;
+    border: 1px solid #aaa;
 }
 
 .site .meta {
