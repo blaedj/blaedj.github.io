@@ -15,4 +15,4 @@ end
 {% endhighlight %}
 
 I don't ever want to stop learning, whether it be within the confines of
-MSStack, alongside [tux](http://en.wikipedia.org/wiki/Tux) or somewhere computers have no place ([like](http://photos.bwca.com/d/DOGWOODGIRL-110809-183120.jpg) [here](http://photos.bwca.com/s/STARWATCHER-111106-075431.jpg)), may the reading lists stack up, the bookmark folders overflow, and the half-finished project list expand by leaps and bounds!
+MSStack, alongside [tux](http://en.wikipedia.org/wiki/Tux) or somewhere that computers have no place ([Like here]({{ site.url }}/assets/rivers.jpg)), may the reading lists stack up, the bookmark folders overflow, and the half-finished project list expand by leaps and bounds!
