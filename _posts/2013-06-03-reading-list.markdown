@@ -24,14 +24,19 @@ Now, to get to the point of this post. Through this process of continual explora
 * [Refactoring](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) Martin Fowler (*in progress*)
     Called by some the 'bible' on refactoring and improving code
 
-* [Design Patterns](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) "the Gang of Four"
+* [Design Patterns](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) "the Gang of Four" (*pending*)
     Pretty much a classic, I would like to read this so that I have a good idea of what each of the design patterns really are, rather than the brief overview that I currently possess.
 
-* [Godel, Escher, Bach](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) Douglas Hofstadter
+* [Godel, Escher, Bach](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) Douglas Hofstadter (*pending*)
     Not sure why I want to try and read this book, but I think it would be very intersting. Comes highly recommended by [Steve Yegge](https://sites.google.com/site/steveyegge2/godel-escher-blog)
 
 * [Mastering Regular Expressions](http://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124) Jeffrey Friedl
     Supposed to be great overview book on Regular expressions, I am currently partially through this book. I really need to finish this book. I know enough about regex to appreciate how great they can be, but not enough to confidently write complex regexs on the fly. Item #9 on [Effective Emacs](https://sites.google.com/site/steveyegge2/effective-emacs)...
 
+* [Growing Object-Oriented Software, Guided by Tests](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/) Steve Freeman, Nat Pryce (*pending*)
+This looks to be a good comprehensive guide to TDD, i have found (trusted) references to it scattered about the interwebs. I would really like to strengthen my understanding of TDD and this could be a really good place to start. This or the next item on my list:
+
+* [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/) Kent Beck (*pending*)
+  Another intro to TDD. Written by Kent Beck, therefore reputable. Beck was one of the early pioneers of TDD, and is one of the two intital authors of the JUnit testing framework (the other is Erich Gamma).
 
 (*last updated 10/21*)
