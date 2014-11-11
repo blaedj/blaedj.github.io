@@ -1,2 +1,4 @@
 name: Fuzzy_()ctal
-pygments: true
+markdown: kramdown
+
+highlighter: pygments
