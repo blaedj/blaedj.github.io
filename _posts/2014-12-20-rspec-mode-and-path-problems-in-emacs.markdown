@@ -17,7 +17,7 @@ magit-status-mode. So handy!
 However, after a computer restart nothing seemed to work
 correctly. Magit-mode was complaining that
 it couldn't find the git executable.  I had recently moved Apple's
-<code>/bin/git</code> to <code>/bin/git2</code> so that the system
+<code>/usr/bin/git</code> to <code>/usr/bin/git2</code> so that the system
 would use Homebrew's version of git (I upgraded because of a
 [vulnerability](http://article.gmane.org/gmane.linux.kernel/1853266) found in git clients).  Turns out that my PATH variable
 for emacs was messed up. For future reference, the 'path' variable in
