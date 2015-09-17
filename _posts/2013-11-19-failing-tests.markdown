@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Failing Tests Considered Helpful"
-categories: programming
+tags: programming
 ---
 
   _Background: I work in web development, and am trying to learn and apply the concepts of TDD._

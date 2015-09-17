@@ -2,7 +2,7 @@
 layout: post
 title: "Base64 decoding email attachments with Ruby"
 date: 2015-04-15 14:35:30
-categories: ruby quick_hacks
+tags: ruby quick_hacks
 ---
 
 This may be a fairly uncommon situation, but have you ever needed to recover

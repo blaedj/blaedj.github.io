@@ -2,7 +2,6 @@
 layout: post
 title:  "About me"
 date:   2013-06-03 11:48:16
-categories: jekyll
 ---
 
 {% highlight ruby %}

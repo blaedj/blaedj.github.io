@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arbitrary Mode Scratch buffers for Emacs"
-categories: programming
+tags: programming
 ---
 
   In my current job, I do a fair amount of teaching about web development. Usually these are quick 10 minute lessons, and often times it is easiest to explain a concept with a code snippet. Being an emacs user, I typically open up a new temp buffer, set the major-mode js2-mode/web-mode/css-mode (for javascript, html/velocity/jsp and css respectively) and start typing.

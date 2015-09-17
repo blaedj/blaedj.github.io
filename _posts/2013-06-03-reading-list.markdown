@@ -2,7 +2,7 @@
 layout: post
 title: "Reading list"
 date: 2013-06-08 06:48:30
-categories: reading list
+tags: reading list
 ---
 
 Over the course of my college career, I have been simultaneously fascinated by the concepts presented in class and disappointed by the lack of the practical lessons. This may or may not have been a bad thing, as it piqued my curiosity and led me to search elsewhere to supplement my college education.

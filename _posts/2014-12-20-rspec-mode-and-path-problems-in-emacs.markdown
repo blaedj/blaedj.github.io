@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RSpec-mode, Magit and Path problems in Emacs"
-categories: programming emacs
+tags: programming emacs
 ---
 
 I have been using [rspec-mode](https://github.com/pezra/rspec-mode) to run my specs lately.

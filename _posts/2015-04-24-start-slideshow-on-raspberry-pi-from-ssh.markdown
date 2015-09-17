@@ -2,10 +2,10 @@
 layout: post
 title:  "Starting (and restarting) a slideshow on a remote raspberry pi"
 date:   2015-04-24 
-categories: raspberry-pi ssh openvt fbi
+tags: raspberry-pi ssh openvt fbi
 ---
 
-I recently got my first raspberry pi, its being used to run a simple display board at work. Newsletters
+I recently got my first raspberry pi, it is being used to run a simple display board at work. Newsletters
 and announcements are converted to image form and then displayed in a slideshow. After some trial and error
 I came upon the ```fbi``` command, which displays images on a screen directly, no need for an
 X-session. This has worked really well, I have a script that displays all the .png files in a directory:
