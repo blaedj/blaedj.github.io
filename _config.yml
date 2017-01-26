@@ -2,3 +2,5 @@ name: Fuzzy_()ctal
 markdown: kramdown
 
 highlighter: pygments
+
+theme: jekyll-theme-cayman
