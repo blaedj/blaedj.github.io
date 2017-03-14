@@ -1,6 +1,6 @@
 name: Fuzzy_()ctal
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 
 theme: jekyll-theme-cayman
