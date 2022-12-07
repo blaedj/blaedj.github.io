@@ -71,7 +71,8 @@ class Post < ApplicationRecord
   # ...
 
   validate do 
-    unless @in_publish_flow || !will_save_change_to_attribute?(:status, to: :published)
+    unless @in_publish_flow 
+      || !will_save_change_to_attribute?(:status, to: :published)
       raise ImproperUpdateError, "use Post#publish! to publish a blog post" 
     end
   end
