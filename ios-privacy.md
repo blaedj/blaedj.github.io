@@ -18,7 +18,7 @@ Anonymous, aggregate usage metrics may be collected to help improve the app expe
 
 ## Third-Party Services
 
-This app does not share data with third parties for advertising or marketing purposes.
+Our apps do not share data with third parties for advertising or marketing purposes.
 
 ## Changes to This Policy
 
